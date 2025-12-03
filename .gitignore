@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User specific logs or downloads
+*.log
+output/
+downloads/
